@@ -8,3 +8,7 @@
   
 **解决:**
 >python -m pip install --upgrade pip
+
+# 2.tensorflow windows 安装问题
+**2.1. python版本3.6.x, 64bit**
+
