@@ -12,3 +12,5 @@
 # 2.tensorflow windows 安装问题
 **2.1. python版本3.6.x, 64bit**
 
+**2.2. cmd:pip install tensorflow**
+
